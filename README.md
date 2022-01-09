@@ -8,4 +8,4 @@
 ![WeatherForecast](https://github.com/Jodeth1212/WeatherForecastDjango/blob/main/WeatherForecastDashboard.PNG)
 
 -----------
-Author: Jodeth Ballados
+Author: Jo Deth Ballados
